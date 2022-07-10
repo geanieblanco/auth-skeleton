@@ -16,7 +16,7 @@ function App() {
   return (
     <main className="wrapper">
       <Link to={'/'}>
-        <h1>AIM Clone</h1>
+        <h1>Home</h1>
       </Link>
       <nav>
         <Link to="/auth">Sign In</Link>

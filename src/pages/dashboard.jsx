@@ -12,7 +12,7 @@ export default function Dashboard() {
     }
 
     if (!authToken) {
-        navigate('/login')
+        navigate('/auth')
     }
   }, [])
 
